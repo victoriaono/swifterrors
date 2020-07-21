@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Swift errors and other tips
 
-You can use the [editor on GitHub](https://github.com/victoriaono/victoriaono.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I've compiled some common errors I noticed during [Kode with Klossy](https://kodewithklossy.com) for easy steps to fix them!
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
