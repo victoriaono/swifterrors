@@ -1,6 +1,7 @@
-## Swift errors and other tips
+## Find tips for Swift/Xcode here!
 
 I've compiled some common errors I noticed during [Kode with Klossy](https://kodewithklossy.com) for easy steps to fix them!
+Some of them are very minor, but this is meant for beginners who have never used Xcode before :)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
