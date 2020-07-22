@@ -11,7 +11,7 @@ Click anywhere on the screen of your storyboard then click the + button! The rea
 ![Image of Snippets vs. Object Library](images/snippets-objects.gif)
 
 #### 2. **The assistant editor I want doesn’t show on the right!**
-Ugh I know, it’s so annoying. Aside from clicking  and choosing “Assistant,” while having just the storyboard open, here is another way. 
+Ugh I know, it’s so annoying. Aside from clicking ![Image of lines symbol](images/lines.png) and choosing “Assistant,” while having just the storyboard open, here is another way. 
 
 #### 3. **I want to rename my outlet/action name!**
 Hold your horses. We want to be careful here and not just rename them because then it will run into an ugly error. To rename the variable/function name, highlight the name, right click, then Refactor -> Rename. Xcode will then basically do a “find and replace” business so all the property names and connections match up (this is for Xcode 9 and beyond, which I believe all of you have.) 
