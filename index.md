@@ -8,7 +8,7 @@ Some of them are very minor, but this is meant for beginners who have never used
 
 #### 1. **Object Library doesn’t show up when clicking + button (shows Snippets instead)!**
 Click anywhere on the screen of your storyboard then click the + button! The reason Xcode opens up the Snippet Library is because you’re on the code “tab.” These code snippets are actually useful if you want to save time writing out functions with multiple parameters!
-![Image of Snippets vs. Object Library](images/snippets-objects)
+![Image of Snippets vs. Object Library](images/snippets-objects.gif)
 
 #### 2. **The assistant editor I want doesn’t show on the right!**
 Ugh I know, it’s so annoying. Aside from clicking  and choosing “Assistant,” while having just the storyboard open, here is another way. 
