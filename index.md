@@ -60,9 +60,9 @@ If you’re working on a group project and you tried to push, but you got this e
 Open Main.storyboard by right-clicking on it, going down to “Open As” → “Source Code.” Then, scroll down or Command+F to find the line like this:
 ```markdown
 <<<<<<< HEAD
- `code` (let's call it A)
+ code (let's call it A)
 ========
- `code` (let's call it B)
+ code (let's call it B)
 >>>>>>>> master
 ```
 
